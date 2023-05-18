@@ -1,0 +1,7 @@
+name: Artifactsmp2
+version: '${project.version}'
+main: me.goodi.artifactsmp2.Artifactsmp2
+api-version: 1.19
+commands:
+  giveArtifact:
+    description: "get an artifact"
